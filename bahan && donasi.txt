@@ -1,0 +1,34 @@
+apt update
+apt upgrade
+pkg update
+pkg upgrade
+pkg install python
+pkg install pip
+pip install --upgrade pip
+termux-setup-storage
+pip install telethon
+pip install -r requirements.txt
+
+
+wd:
+@BitcoinClick_bot
+@BCH_clickbot
+@Dogecoin_click_bot
+@Litecoin_click_bot
+@Zcash_click_bot
+
+open donasi:
+
+ZEC : t1QhdPzTmkjm7pMiQ1zeD7K5r4D8D6XtESt
+
+BCH :
+qpd60f8660s2mja7n8pzuca8tg2dpd89vsvgyfaf66
+
+BTC :
+37ie8bYr2BYZufnmUSkWw2Lfy9oCeGA6UC
+
+DOGE :
+D5A82r8hKd6ovpb1fSF1hnJvmw6WfaWYSk
+
+LTC :
+MB48ZcYufntTyqqCVXhPNTqtnNvP826hAN
